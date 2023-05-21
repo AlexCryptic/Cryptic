@@ -1,0 +1,2 @@
+,DRUG,METHOD,TEST_SET,Samples,EA_ml,PA_ml,CA_ml,Sens_ml,Sens_cat,Spec_ml,Spec_cat,PPV_ml,PPV_cat,NPV_ml,NPV_cat,Acc_ml,Acc_cat,F1_ml,F1_cat,EA_mlCI,PA_mlCI,CA_mlCI,Sens_mlCI,Sens_catCI,Spec_mlCI,Spec_catCI,PPV_mlCI,PPV_catCI,NPV_mlCI,NPV_catCI,Acc_mlCI,Acc_catCI,F1_mlCI,F1_catCI,S_true,R_true,S_ml,R_ml,LABEL,SAMPLES,DATA,RUN
+0,INH,xgbr,Test,50,0.840,0.320,0.920,0.882,0.941,0.939,0.970,0.882,0.941,0.939,0.970,0.920,0.960,0.882,0.941,0.101,0.125,0.078,0.155,0.130,0.090,0.074,0.155,0.130,0.090,0.074,0.078,0.062,0.155,0.130,33.0,17.0,33.0,17.0,LOG2MIC_NEW,0050,KMER,Run_001
